@@ -71,3 +71,8 @@ This repository grows continuously as more books are processed and refined.
 Chapter 1 — Open the Door
 
 A Mind for Numbers — Barbara Oakley
+Detailed Summary
+
+Chapter 1 introduces Barbara Oakley’s powerful transformation—from someone who feared and failed at math and science to becoming a professor of engineering.
+
+As a child, Oakley identified herself as a “language-oriented” person. She struggled with basic technical tasks like reading clocks or operating devices and saw numbers and equations as something to avoid. This led her to believe she simply wasn’t “wired” for technical subjects.
