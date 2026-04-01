@@ -41,7 +41,7 @@ The brain is adaptable. Even if you struggled in the past, you can rewire your t
 
 Humans naturally perform complex calculations in everyday actions without realizing it.
 
-### 🎯 Technique Over Talent
+###  Technique Over Talent
 
 Success in technical fields is less about innate intelligence and more about using the right learning methods.
 
