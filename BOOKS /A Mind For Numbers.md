@@ -45,11 +45,11 @@ Humans naturally perform complex calculations in everyday actions without realiz
 
 Success in technical fields is less about innate intelligence and more about using the right learning methods.
 
-### 🔄 Internalizing Concepts
+###  Internalizing Concepts
 
 Deep learning requires time, repetition, and gradual understanding—not cramming everything at once.
 
-### ⚠️ Illusion of Competence
+###  Illusion of Competence
 
 Sometimes we think we understand something when we actually don’t. True learning requires active engagement.
 
