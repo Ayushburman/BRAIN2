@@ -16,3 +16,7 @@ Purpose
 Modern learning is not about consuming more — it's about retaining, connecting, and applying.
 
 This project is built to:
+📚 Convert books into structured, reusable knowledge
+⚡ Enable fast revision and recall
+🧩 Connect ideas across domains (math, psychology, tech, etc.)
+💻 Bridge theory with real-world implementations
