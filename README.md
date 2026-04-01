@@ -36,3 +36,4 @@ knowledge-vault/
 │
 ├── Books/
 │   ├── Book-Name/
+Chapter-1.md │ │ ├── Chapter-2.md │ │ ├── key-concepts.md │ │ └── diagrams/
