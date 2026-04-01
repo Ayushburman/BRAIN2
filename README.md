@@ -28,3 +28,6 @@ Each book is broken down into:
 🔑 Key Concepts — distilled ideas
 🧠 Personal Explanations — simplified understanding
 ⚡ Keywords & Terms — quick recall triggers
+Code & Algorithms — where applicable
+📊 Diagrams & Visualizations — for clarity
+🔥 Core Takeaways — actionable insights
