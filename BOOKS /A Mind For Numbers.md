@@ -1,4 +1,4 @@
-# 📘 Chapter 1 — Open the Door
+#  Chapter 1 — Open the Door
 
 *A Mind for Numbers — Barbara Oakley*
 
