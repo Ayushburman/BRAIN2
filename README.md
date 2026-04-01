@@ -38,3 +38,12 @@ knowledge-vault/
 ├── Books/
 │   ├── Book-Name/
 Chapter-1.md │ │ ├── Chapter-2.md │ │ ├── key-concepts.md │ │ └── diagrams/
+Disclaimer
+
+This repository does not reproduce or distribute copyrighted material.
+
+All content here is:
+
+written in original words
+based on personal understanding
+intended for educational and reference purposes only
