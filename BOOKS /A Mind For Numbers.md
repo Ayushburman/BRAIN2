@@ -33,7 +33,7 @@ This chapter sets the foundation for the book:
 
 ##  Key Concepts
 
-### 🧠 Neuroplasticity & Retraining
+###  Neuroplasticity & Retraining
 
 The brain is adaptable. Even if you struggled in the past, you can rewire your thinking and master difficult subjects.
 
