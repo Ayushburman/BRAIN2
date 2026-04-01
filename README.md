@@ -11,3 +11,8 @@ algorithms & code
 visual diagrams
 
 Instead of re-reading entire books, this system allows rapid access to high-value knowledge—chapter by chapter.
+Purpose
+
+Modern learning is not about consuming more — it's about retaining, connecting, and applying.
+
+This project is built to:
