@@ -61,3 +61,7 @@ Why This Matters
 
 Time is limited. Books are vast.
 This is an attempt to capture the 20% that delivers 80% of value.
+Why This Matters
+
+Time is limited. Books are vast.
+This is an attempt to capture the 20% that delivers 80% of value.
