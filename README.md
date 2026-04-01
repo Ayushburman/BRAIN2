@@ -68,3 +68,6 @@ This is an attempt to capture the 20% that delivers 80% of value.
 Work in Progress
 
 This repository grows continuously as more books are processed and refined.
+Chapter 1 — Open the Door
+
+A Mind for Numbers — Barbara Oakley
