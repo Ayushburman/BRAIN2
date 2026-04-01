@@ -76,3 +76,4 @@ Detailed Summary
 Chapter 1 introduces Barbara Oakley’s powerful transformation—from someone who feared and failed at math and science to becoming a professor of engineering.
 
 As a child, Oakley identified herself as a “language-oriented” person. She struggled with basic technical tasks like reading clocks or operating devices and saw numbers and equations as something to avoid. This led her to believe she simply wasn’t “wired” for technical subjects.
+Her early success came in the humanities. She studied Russian, served in the army, and graduated with honors in Slavic languages and literature. However, her life took a major turn when she joined the U.S. Army Signal Corps as a second lieutenant. There, she was expected to develop technical expertise in communication systems.
