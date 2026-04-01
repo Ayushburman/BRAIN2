@@ -64,7 +64,7 @@ Though no technical diagrams are included, this chapter prepares the foundation 
 
 ---
 
-## 🧾 Conclusion
+##  Conclusion
 
 Chapter 1 delivers a powerful message:
 
