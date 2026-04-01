@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Detailed Summary
+##  Detailed Summary
 
 Chapter 1 introduces Barbara Oakley’s powerful transformation—from someone who feared and failed at math and science to becoming a professor of engineering.
 
