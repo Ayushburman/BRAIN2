@@ -37,7 +37,7 @@ This chapter sets the foundation for the book:
 
 The brain is adaptable. Even if you struggled in the past, you can rewire your thinking and master difficult subjects.
 
-### ⚙️ Unconscious Math Ability
+###  Unconscious Math Ability
 
 Humans naturally perform complex calculations in everyday actions without realizing it.
 
