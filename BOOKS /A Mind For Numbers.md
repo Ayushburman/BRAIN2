@@ -55,7 +55,7 @@ Sometimes we think we understand something when we actually don’t. True learni
 
 ---
 
-## 🖼️ Visual Insight
+##  Visual Insight
 
 The chapter includes a photograph of Oakley as a child with “Earl the lamb.”
 This represents her early identity—someone inclined toward reading and animals, but disconnected from math and science.
