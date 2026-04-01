@@ -50,3 +50,14 @@ intended for educational and reference purposes only
 Philosophy
 
 “Don’t just read books. Extract them. Compress them. Build with them.”
+Vision
+
+To evolve this into:
+
+a personal knowledge operating system
+an interconnected idea network
+a fast-access learning engine
+Why This Matters
+
+Time is limited. Books are vast.
+This is an attempt to capture the 20% that delivers 80% of value.
