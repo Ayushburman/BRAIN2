@@ -47,3 +47,6 @@ All content here is:
 written in original words
 based on personal understanding
 intended for educational and reference purposes only
+Philosophy
+
+“Don’t just read books. Extract them. Compress them. Build with them.”
