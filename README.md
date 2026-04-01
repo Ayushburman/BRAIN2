@@ -31,3 +31,8 @@ Each book is broken down into:
 Code & Algorithms — where applicable
 📊 Diagrams & Visualizations — for clarity
 🔥 Core Takeaways — actionable insights
+Structure
+knowledge-vault/
+│
+├── Books/
+│   ├── Book-Name/
