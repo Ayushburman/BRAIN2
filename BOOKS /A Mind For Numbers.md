@@ -25,13 +25,13 @@ With time, she progressed from basic trigonometry to earning a doctorate in syst
 Now, she shares these insights to help others learn more effectively. She highlights that the human brain is naturally capable of complex problem-solving—even unconsciously in daily activities like catching a ball or driving.
 
 This chapter sets the foundation for the book:
-👉 The brain can be trained.
-👉 Learning is a skill.
-👉 Anyone can improve.
+> The brain can be trained.
+> Learning is a skill.
+> Anyone can improve.
 
 ---
 
-## 🔑 Key Concepts
+##  Key Concepts
 
 ### 🧠 Neuroplasticity & Retraining
 
