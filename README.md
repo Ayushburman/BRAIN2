@@ -65,3 +65,6 @@ Why This Matters
 
 Time is limited. Books are vast.
 This is an attempt to capture the 20% that delivers 80% of value.
+Work in Progress
+
+This repository grows continuously as more books are processed and refined.
