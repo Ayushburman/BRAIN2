@@ -84,6 +84,89 @@ Oakley’s journey proves that:
 
 > You are not “bad” at a subject—you just haven’t learned how to learn it yet.
 ----------------------------------------------------------------------------------------------------
+# 📘 Chapter 2 — *Easy Does It* (A Mind for Numbers)
+
+---
+
+## 🧠 Key Concepts — Distilled Ideas
+
+- **Focused Mode vs Diffuse Mode**
+  - Focused: Deep concentration, logical, sequential thinking
+  - Diffuse: Relaxed thinking, big-picture connections
+  - Both modes **cannot operate simultaneously**
+
+- **Pinball Metaphor**
+  - Focused Mode → Tight bumpers → precise but limited thinking
+  - Diffuse Mode → Wide bumpers → broad, creative connections
+
+- **Einstellung Effect**
+  - Getting stuck on a wrong idea blocks better solutions
+
+- **Abstractness & Encryptedness**
+  - Math/science concepts are:
+    - Abstract → not physically tangible
+    - Encrypted → symbols represent multiple meanings
+
+- **Priming the Pump**
+  - Skimming before deep reading builds mental “hooks”
+
+- **Pomodoro Technique**
+  - 25 min focus + short break → activates both modes
+
+- **Value of Confusion**
+  - Feeling stuck = part of learning
+  - Identifying confusion = 80% of solving
+
+---
+
+## 🧠 Personal Explanations — Simplified Understanding
+
+- Your brain works like **two systems**:
+  - One is like a **laser (focused mode)** → sharp but narrow
+  - One is like a **flashlight (diffuse mode)** → wide but soft
+
+- When you try too hard:
+  - You **trap yourself in one path**
+  - You miss better solutions
+
+- When you relax:
+  - Brain makes **unexpected connections**
+  - That’s where **“aha moments” come from**
+
+- Learning = **Switching modes repeatedly**
+  - Study → Break → Insight → Repeat
+
+---
+
+## ⚡ Keywords & Terms — Quick Recall
+
+- Focused Mode  
+- Diffuse Mode  
+- Prefrontal Cortex  
+- Einstellung Effect  
+- Neural Pathways  
+- Abstractness  
+- Encryptedness  
+- Pomodoro Technique  
+- Priming the Pump  
+- Befuddlement  
+
+---
+
+## 💻 Code & Algorithms — Where Applicable
+
+### ⏱ Pomodoro Algorithm (Learning Strategy)
+
+```python
+import time
+
+def pomodoro_study(session_minutes=25, break_minutes=5):
+    while True:
+        print("Focus Mode: Study deeply")
+        time.sleep(session_minutes * 60)
+
+        print("Break: Relax (Diffuse Mode active)")
+        time.sleep(break_minutes * 60)
 
 
 
