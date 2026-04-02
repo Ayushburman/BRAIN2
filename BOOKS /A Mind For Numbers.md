@@ -136,37 +136,16 @@ Oakley’s journey proves that:
 - Learning = **Switching modes repeatedly**
   - Study → Break → Insight → Repeat
 
----
 
-## ⚡ Keywords & Terms — Quick Recall
-
-- Focused Mode  
-- Diffuse Mode  
-- Prefrontal Cortex  
-- Einstellung Effect  
-- Neural Pathways  
-- Abstractness  
-- Encryptedness  
-- Pomodoro Technique  
-- Priming the Pump  
-- Befuddlement  
-
----
-
-## 💻 Code & Algorithms — Where Applicable
-
-### ⏱ Pomodoro Algorithm (Learning Strategy)
-
-```python
-import time
-
-def pomodoro_study(session_minutes=25, break_minutes=5):
-    while True:
-        print("Focus Mode: Study deeply")
-        time.sleep(session_minutes * 60)
-
-        print("Break: Relax (Diffuse Mode active)")
-        time.sleep(break_minutes * 60)
-
+----------------------------------------------------------
+- [ ]  Core Takeaways — Actionable Insights
+- [ ]   Don’t just “try harder” → it can make things worse
+- [ ] Use breaks strategically → learning happens in rest too
+- [ ]  Switch between focused & diffuse modes regularly
+- [ ]  Avoid getting stuck → step away when blocked
+- [ ]  Use Pomodoro to control procrastination
+- [ ]  Confusion is not failure → it’s progress
+- [ ] Real understanding = building neural connections over time
+-------------------------------------------------------------
 
 
