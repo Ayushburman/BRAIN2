@@ -83,4 +83,7 @@ Oakley’s journey proves that:
 ## 🔥 Core Takeaway
 
 > You are not “bad” at a subject—you just haven’t learned how to learn it yet.
+----------------------------------------------------------------------------------------------------
+
+
 
