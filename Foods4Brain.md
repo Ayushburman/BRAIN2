@@ -19,6 +19,7 @@ same structure:
 
 
 What — the food / nutrient
+
 Why — the biological mechanism in the brain Evidence — strength of human research 
 (Strong / Moderate / Emerging)
 Sources — where to get it
