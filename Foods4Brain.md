@@ -14,16 +14,17 @@ what to eat, why it matters physiologically
 
 
 How to read this
-
+hvhg
 Each entry follows the
 same structure:
-
+yggy
 
 What — the food / nutrient
 
 Why — the biological mechanism 
 in the brain Evidence — 
 strength of human research 
+bhnn
 (Strong / Moderate / Emerging)
 Sources — where to get it
 
