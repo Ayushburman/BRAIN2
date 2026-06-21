@@ -4,6 +4,7 @@
 Diet-driven cognitive 
 
 support, organized by mechanism — 
+
 what to eat, why it matters physiologically
 , and what the evidence actually shows.
 
