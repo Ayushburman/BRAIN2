@@ -10,7 +10,6 @@ what to eat, why it matters physiologically
 
 
 How to read this
-
 Each entry follows the same structure:
 
 
