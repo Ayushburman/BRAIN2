@@ -4,7 +4,7 @@
 Diet-driven cognitive 
 
 support, organized by mechanism — 
-huhuhnjjnj
+huhuhnjjnjbjnjn
 vhvh
 what to eat, why it matters physiologically
 
@@ -17,6 +17,7 @@ How to read this
 hvhg
 Each entry follows the
 same structure:
+ bhb
 yggy
 
 What — the food / nutrient
