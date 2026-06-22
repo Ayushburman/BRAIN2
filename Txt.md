@@ -17,6 +17,7 @@ b
 nbh
  bv
  bhb
+ bhbh
 bbhhb
 njnj
 gfgv
