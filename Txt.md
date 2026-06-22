@@ -15,6 +15,7 @@ b
  bv
  bhb
 bbhhb
+njnj
 gfgv
 gvgv
  hbj
