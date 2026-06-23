@@ -25,6 +25,7 @@ Research from the Harvard Medical School and National Institutes of Health shows
 
 ---
 
+
 # 2. Exercise: The Brain Growth Drug
 
 ### What Science Says
