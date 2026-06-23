@@ -10,6 +10,7 @@ During sleep, the brain:
 * Removes waste products via the glymphatic system
 * Strengthens learning pathways
 * Improves decision-making
+* 
 
 ### Evidence
 
