@@ -47,6 +47,7 @@ BDNF acts like fertilizer for brain cells.
 
 3–5 times/week.
 
+
 ---
 
 # 3. Spaced Repetition: The Memory Superpower
