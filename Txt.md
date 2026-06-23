@@ -1,12 +1,4 @@
-gfgf
 
-ay
-
-drd
-
-frdrjnjn
-
-khin
 
 gft
 
