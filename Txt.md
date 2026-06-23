@@ -1,18 +1,4 @@
 
-knij
-
-jbjb
-nun
-
-hbhh
-
-bygy
-
-
-vggnjh
-
-
-jh
 bvv
 
 bhgj
