@@ -14,7 +14,7 @@ mkm
 jnij
 
 nijij
- fcg
+ f
  nn8
 ftfg
 kjij
