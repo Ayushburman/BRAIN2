@@ -1,18 +1,5 @@
 
 
-gft
-
-mkm
-
-jnij
-
-nijij
-
- f
- nn8
- 
-ftfg
-
 kjij
 f
 
