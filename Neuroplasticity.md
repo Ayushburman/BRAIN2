@@ -37,6 +37,7 @@ It operates across multiple timescales:
 | Days–Weeks           | Dendritic spine growth   |
 | Months–Years         | Cortical reorganization  |
 
+
 ### Key Principle
 
 Neurons are not fixed hardware.
