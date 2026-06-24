@@ -131,6 +131,7 @@ Creation of new neurons in adulthood.
 
 Major regions:
 
+
 * Hippocampal Dentate Gyrus
 * Olfactory Bulb
 
