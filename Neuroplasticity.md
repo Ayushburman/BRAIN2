@@ -8,7 +8,7 @@ jnsnjd
 > to reorganize itself
 > by forming new neuralkjkwmkrfmkmrf
 > connections throughout life.jsnfkej
- jdncj
+ jdncjjxjcj
 ---
 jidjdjk
 # 1. mksmd
