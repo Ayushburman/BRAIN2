@@ -4,8 +4,6 @@
 > The brain's ability to reorganize itself by forming new neural connections throughout life.
 
 ---
-
-
 # 1. Definition & Core Concept
 
 ## Neuroplasticity (Neural Plasticity)
