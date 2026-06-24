@@ -8,7 +8,8 @@
 > connections throughout life.
 
 ---
-# 1. Definition & Core Concept
+# 1. 
+Definition & Core Concept
 
 ## Neuroplasticity
 (Neural Plasticity)
