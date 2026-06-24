@@ -11,7 +11,6 @@
 
 Neuroplasticity is the capacity of neural circuits in the brain to change their:
 
-
 * Structure
 * Function
 * Chemical properties
