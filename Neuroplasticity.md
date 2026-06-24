@@ -348,6 +348,7 @@ Timing window:
 
 # 6. Long-Term Potentiation (LTP)
 
+
 ## Definition
 
 Persistent strengthening of synaptic transmission after intense stimulation.
