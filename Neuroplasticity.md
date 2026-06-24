@@ -9,7 +9,7 @@ kims
 > connections throughout life.
 
 ---
-# 1. 
+# 1. mksmd
 Definition & Core Concept
 
 ## Neuroplasticity
