@@ -2,7 +2,7 @@
 — Deep Reference Notes
 
 kimskmwd
-n)
+n)jnednk
 jnsnjd
 > The brain's ability jefn
 > to reorganize itself
