@@ -4,6 +4,7 @@
 
 ---
 
+
 # 1. Definition & Core Concept
 
 ## Neuroplasticity (Neural Plasticity)
