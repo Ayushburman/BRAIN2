@@ -96,6 +96,7 @@ Examples:
 
 ## Structural Plasticity
 
+
 Physical changes in brain anatomy:
 
 * Dendrite growth
