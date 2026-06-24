@@ -49,6 +49,7 @@ They are dynamic, experience-dependent systems capable of modification throughou
 
 ## Historical Foundation
 
+
 ### Ramón y Cajal (1894)
 
 Proposed that mental activity could modify synaptic connections.
