@@ -1,7 +1,7 @@
 # 🧠 Neuroplasticity
 — Deep Reference Notes
 
-kims
+kimskmwd
 
 > The brain's ability
 > to reorganize itself
