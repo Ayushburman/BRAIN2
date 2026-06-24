@@ -61,6 +61,7 @@ Provided the first formal theory of activity-dependent learning.
 
 ### Michael Merzenich (1983–1996)
 
+
 Demonstrated that cortical maps in adult monkeys could reorganize after:
 
 * Training
