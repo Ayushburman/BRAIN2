@@ -15,7 +15,8 @@
 
 
 Neuroplasticity 
-is the capacity of neural circuits in the brain to change their:
+is the capacity
+of neural circuits in the brain to change their:
 
 * Structure
 * Function
@@ -30,7 +31,8 @@ in response to:
 * Disease
 
 
-It operates across multiple timescales:
+It operates 
+across multiple timescales:
 
 
 | Timescale            | Mechanism                |
