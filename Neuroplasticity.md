@@ -69,6 +69,7 @@ This overturned the belief that adult brains are hardwired.
 
 ---
 
+
 # 2. Types of Neuroplasticity
 
 
