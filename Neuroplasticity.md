@@ -146,6 +146,7 @@ Associated with:
 
 ## Evidence: Phantom Limb Phenomenon
 
+
 After limb amputation:
 
 * Touching the face can produce sensations in the missing hand.
