@@ -693,6 +693,7 @@ Spacing > Cramming
 Sleep helps:
 
 * Replay experiences
+  
 * Consolidate memories
 * Remove weak synapses
 
