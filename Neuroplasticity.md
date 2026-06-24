@@ -54,6 +54,7 @@ They are dynamic, experience-dependent systems capable of modification throughou
 
 Proposed that mental activity could modify synaptic connections.
 
+
 ### Donald Hebb (1949)
 
 Provided the first formal theory of activity-dependent learning.
