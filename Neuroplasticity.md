@@ -5,7 +5,7 @@ kims
 
 > The brain's ability
 > to reorganize itself
-> by forming new neural
+> by forming new neuralkjkw
 > connections throughout life.
 
 ---
