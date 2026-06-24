@@ -4,7 +4,7 @@
 kimskmwd
 n)
 
-> The brain's ability
+> The brain's ability jefn
 > to reorganize itself
 > by forming new neuralkjkw
 > connections throughout life.
