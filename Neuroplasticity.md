@@ -57,6 +57,7 @@ Proposed that mental activity could modify synaptic connections.
 
 ### Donald Hebb (1949)
 
+
 Provided the first formal theory of activity-dependent learning.
 
 ### Michael Merzenich (1983–1996)
