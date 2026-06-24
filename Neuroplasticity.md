@@ -6,7 +6,7 @@ n)jnednk
 jnsnjd
 > The brain's ability jefn
 > to reorganize itself
-> by forming new neuralkjkw
+> by forming new neuralkjkwmkrfmkmrf
 > connections throughout life.jsnfkej
  jdncj
 ---
