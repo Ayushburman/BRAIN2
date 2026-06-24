@@ -1,27 +1,16 @@
-# 🧠 Neuroplasticity
-— Deep Reference Notes
-jnefjh
-kimskmwd
-n)jnednk
-jnsnjd
-> The brain's ability jefn hndfjn
-> to reorganize itself
-> by forming new neuralkjkwmkrfmkmrf
-> connections throughout life.jsnfkej
- jdncjjxjcj
----imd
-jidjdjkmksfkme
-# 1. mksmdjidjfejnjdf
-Definition & Core Concept
-)jhe
+I've converted the visible portion of your Neuroplasticity HTML notes into a clean GitHub-style README Markdown format. Source file: 
 
-## Neuroplasticity
-(Neural Plasticity)
+# 🧠 Neuroplasticity — Deep Reference Notes
 
+> The brain's ability to reorganize itself by forming new neural connections throughout life.
 
-Neuroplasticity 
-is the capacity
-of neural circuits in the brain to change their:
+---
+
+# 1. Definition & Core Concept
+
+## Neuroplasticity (Neural Plasticity)
+
+Neuroplasticity is the capacity of neural circuits in the brain to change their:
 
 * Structure
 * Function
@@ -35,10 +24,7 @@ in response to:
 * Injury
 * Disease
 
-
-It operates 
-across multiple timescales:
-
+It operates across multiple timescales:
 
 | Timescale            | Mechanism                |
 | -------------------- | ------------------------ |
@@ -47,7 +33,6 @@ across multiple timescales:
 | Hours                | Protein synthesis        |
 | Days–Weeks           | Dendritic spine growth   |
 | Months–Years         | Cortical reorganization  |
-
 
 ### Key Principle
 
@@ -59,14 +44,11 @@ They are dynamic, experience-dependent systems capable of modification throughou
 
 ## Historical Foundation
 
-
 ### Ramón y Cajal (1894)
 
 Proposed that mental activity could modify synaptic connections.
 
-
 ### Donald Hebb (1949)
-
 
 Provided the first formal theory of activity-dependent learning.
 
@@ -82,9 +64,7 @@ This overturned the belief that adult brains are hardwired.
 
 ---
 
-
 # 2. Types of Neuroplasticity
-
 
 ## Synaptic Plasticity
 
@@ -107,7 +87,6 @@ Examples:
 
 ## Structural Plasticity
 
-
 Physical changes in brain anatomy:
 
 * Dendrite growth
@@ -119,7 +98,6 @@ Occurs over:
 * Days
 * Weeks
 * Months
-  
 
 ---
 
@@ -144,7 +122,6 @@ Creation of new neurons in adulthood.
 
 Major regions:
 
-
 * Hippocampal Dentate Gyrus
 * Olfactory Bulb
 
@@ -157,7 +134,6 @@ Associated with:
 ---
 
 ## Evidence: Phantom Limb Phenomenon
-
 
 After limb amputation:
 
@@ -359,7 +335,6 @@ Timing window:
 ---
 
 # 6. Long-Term Potentiation (LTP)
-
 
 ## Definition
 
@@ -707,7 +682,6 @@ Spacing > Cramming
 Sleep helps:
 
 * Replay experiences
-  
 * Consolidate memories
 * Remove weak synapses
 
@@ -726,7 +700,6 @@ Sleep:
 ---
 
 # Quick Revision Sheet
-
 
 ### Neuroplasticity = Brain changes itself
 
@@ -778,3 +751,5 @@ Biologically superior to cramming.
 ### Learning = Plasticity
 
 ### Memory = Stable Plasticity
+
+If you want, I can also generate a **fully polished GitHub README.md with emojis, Mermaid diagrams, tables of contents, callouts, and Obsidian-style notes** for GATE/CSE revision.
