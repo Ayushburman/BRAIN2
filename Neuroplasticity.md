@@ -8,7 +8,7 @@ jnsnjd
 > to reorganize itself
 > by forming new neuralkjkw
 > connections throughout life.
-
+ jdncj
 ---
 # 1. mksmd
 Definition & Core Concept
