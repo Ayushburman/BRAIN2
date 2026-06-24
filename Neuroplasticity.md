@@ -29,6 +29,7 @@ in response to:
 
 It operates across multiple timescales:
 
+
 | Timescale            | Mechanism                |
 | -------------------- | ------------------------ |
 | Milliseconds–Seconds | Ion channel changes      |
