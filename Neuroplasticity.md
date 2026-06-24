@@ -2,6 +2,7 @@
 — Deep Reference Notes
 
 kimskmwd
+n)
 
 > The brain's ability
 > to reorganize itself
