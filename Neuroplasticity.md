@@ -1,4 +1,5 @@
-# 🧠 Neuroplasticity — Deep Reference Notes
+# 🧠 Neuroplasticity
+— Deep Reference Notes
 
 
 > The brain's ability to reorganize itself by forming new neural connections throughout life.
