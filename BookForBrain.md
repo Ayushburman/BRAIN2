@@ -23,6 +23,7 @@ These books directly strengthen concepts tested in GATE while building a much de
 * Makes Theory of Computation feel logical rather than memorized.
 * Strengthens mathematical reasoning required for GATE.
 
+
 **Benefits**
 
 * Better understanding of formal languages.
