@@ -13,4 +13,3 @@ jiji
 njn
 khikn
 nini
-jhhu
