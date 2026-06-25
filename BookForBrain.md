@@ -7,8 +7,7 @@ vgge
 bjhdj
 jijjk
 niji
-jihk
-
+ji
 kh
 mnjk
 jiji
