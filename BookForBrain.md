@@ -149,6 +149,7 @@ These books teach *how to learn*, not just *what to learn*.
 
 **Perfect For**
 
+
 * GATE preparation
 * Research
 * Programming
@@ -168,6 +169,7 @@ These books teach *how to learn*, not just *what to learn*.
 6. **Gödel, Escher, Bach** *(Achieve a profound understanding of formal systems and intelligence.)*
 
 ---
+
 
 # 💡 Key Takeaways
 
