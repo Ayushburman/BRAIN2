@@ -10,6 +10,7 @@ niji
 jihk
 nijk
 jji
+kh
 mnjk
 jij
 njn
