@@ -10,4 +10,3 @@ ji
 kh
 mnjk
 jiji
-njn
