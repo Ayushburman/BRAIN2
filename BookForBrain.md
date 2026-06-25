@@ -17,4 +17,3 @@ njn
 khikn
 nini
 jhhu
-nik
