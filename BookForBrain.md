@@ -11,4 +11,3 @@ kh
 mnjk
 jiji
 njn
-khikn
