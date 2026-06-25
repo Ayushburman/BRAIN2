@@ -19,5 +19,4 @@ khikn
 nini
 jhhu
 nik
-ninini
-jnjn
+ninin
