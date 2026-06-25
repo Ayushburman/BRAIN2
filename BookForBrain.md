@@ -1,16 +1,16 @@
-# 📚 Cognitive Books Roadmap for GATE CSE & Deep Thinking
+#  Cognitive Books Roadmap for GATE CSE & Deep Thinking
 
 > *These books are not just for passing exams—they are for permanently upgrading the way you think.*
 
 ---
 
-## 📌 How These Books Are Grouped
+##  How These Books Are Grouped
 
 The books below are organized based on **their primary impact**, not their difficulty.
 
 ---
 
-# 🎯 For GATE CSE Preparation
+#  For GATE CSE Preparation
 
 These books directly strengthen concepts tested in GATE while building a much deeper understanding of computation.
 
