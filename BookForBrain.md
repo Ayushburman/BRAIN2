@@ -11,6 +11,7 @@ jihk
 mnjk
 jij
 njn
+khikn
 jhhu
 nik
 ninini
