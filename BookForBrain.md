@@ -11,7 +11,6 @@ ji
 kh
 mnjk
 jiji
-jij
 njn
 khikn
 nini
