@@ -21,6 +21,8 @@ These books directly strengthen concepts tested in GATE while building a much de
 
 ## 1. Introduction to the Theory of Computation — Michael Sipser
 
+
+
 **Why Read It**
 
 * Develops a deep intuition for automata, computability, and complexity.
