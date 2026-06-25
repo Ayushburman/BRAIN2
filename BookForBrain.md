@@ -5,5 +5,3 @@ jjhfg
 ghe
 vgge
 bjhdj
-niji
-ji
