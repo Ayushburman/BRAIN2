@@ -1,7 +1,5 @@
 #  Cognitive Books Roadmap for GATE CSE & Deep Thinking
 
-
-
 > *These books are not just for passing exams—they are for permanently upgrading the way you think.*
 
 ---
