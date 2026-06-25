@@ -12,6 +12,7 @@ mnjk
 jij
 njn
 khikn
+nini
 jhhu
 nik
 ninini
