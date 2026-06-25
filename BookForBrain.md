@@ -12,6 +12,7 @@ nijk
 jji
 kh
 mnjk
+jiji
 jij
 njn
 khikn
