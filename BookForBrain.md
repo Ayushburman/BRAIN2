@@ -8,8 +8,7 @@ bjhdj
 jijjk
 niji
 jihk
-nijk
-jji
+
 kh
 mnjk
 jiji
