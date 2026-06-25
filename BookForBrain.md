@@ -10,3 +10,4 @@ jihk
 mnjk
 jij
 njn
+nik
