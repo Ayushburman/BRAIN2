@@ -12,4 +12,3 @@ mnjk
 jiji
 njn
 khikn
-nini
