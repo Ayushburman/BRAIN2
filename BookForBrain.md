@@ -5,7 +5,6 @@ jjhfg
 ghe
 vgge
 bjhdj
-jijjk
 niji
 ji
 kh
