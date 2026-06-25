@@ -9,4 +9,3 @@ niji
 ji
 kh
 mnjk
-jiji
