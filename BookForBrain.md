@@ -36,6 +36,7 @@ These books directly strengthen concepts tested in GATE while building a much de
 
 **Impact:** ⚡⚡⚡⚡⚡
 
+
 ---
 
 ## 2. Structure and Interpretation of Computer Programs (SICP)
