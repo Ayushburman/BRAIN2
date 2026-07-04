@@ -1,8 +1,6 @@
 ghnb
 jhjh
  n
-hvhbjhjh
-jhj
 nhhu
 b(gh
 hghg
