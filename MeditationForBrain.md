@@ -2,8 +2,7 @@ ghnb
 
 njnj
 
-kniji
-mhjh
+k
 jhjh
  nj 
 bh
