@@ -1,8 +1,4 @@
 ghnb
-
-njnj
-
-k
 jhjh
  nj 
 bh
