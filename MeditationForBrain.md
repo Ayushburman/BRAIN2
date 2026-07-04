@@ -2,9 +2,7 @@ ghnb
 jhjh
  n
 hvhbjhjh
-jhjh
-hghg
-ihuh
+jhj
 nhhu
 b(gh
 hghg
