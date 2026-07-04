@@ -1,10 +1,7 @@
 ghnb
 vhg
 
-jij
-kmmk
-knij
-uhuu
+j
 jnn
 mnjn
 njnj
