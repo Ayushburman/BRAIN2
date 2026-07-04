@@ -1,9 +1,6 @@
 ghnb
 jhjh
- nj 
-bh
-mn
-juju
+ n
 hvhbjhjh
 jhjh
 hghg
