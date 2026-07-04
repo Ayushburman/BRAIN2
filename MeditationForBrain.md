@@ -1,7 +1,6 @@
 
 nhhu
 b(gh
-hghg
-hghg
+hg
 bggy
 uh
