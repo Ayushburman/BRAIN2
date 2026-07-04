@@ -1,6 +1,4 @@
 
-nhhu
-b(gh
-hg
+nh
 bggy
 uh
