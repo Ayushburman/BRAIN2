@@ -1,9 +1,5 @@
 ghnb
-vhg
 
-j
-jnn
-mnjn
 njnj
 jbjh
 jhuh
