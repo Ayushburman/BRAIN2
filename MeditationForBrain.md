@@ -1,9 +1,7 @@
 ghnb
 
 njnj
-jbjh
-jhuh
- kmkj
+j
 kniji
 mhjh
 jhjh
