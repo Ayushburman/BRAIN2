@@ -4,6 +4,7 @@ gugu
 jhuh
 jij
 jiji
+kj
 knij
 uhuu
 jnn
