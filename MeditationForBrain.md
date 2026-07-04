@@ -1,7 +1,6 @@
 ghnb
 vhg
-gugu
-jhuh
+
 jij
 kmmk
 knij
