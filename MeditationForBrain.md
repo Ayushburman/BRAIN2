@@ -3,9 +3,6 @@ vhg
 gugu
 jhuh
 jij
-jiji
-iij
-kj
 kmmk
 knij
 uhuu
