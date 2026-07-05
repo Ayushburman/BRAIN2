@@ -3,8 +3,7 @@ jij
 jnn
 hvhvyg
 nbh
-jnjnjbhb
-jbb
+jnjnjbh
 huhuh
 hbbh
 nnj
