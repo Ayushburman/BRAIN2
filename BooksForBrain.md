@@ -4,8 +4,6 @@ jnn
 hvhvyg
 nbh
 jnjnjbhb
-jbhj
-huh
 jbb
 huhuh
 hbbh
