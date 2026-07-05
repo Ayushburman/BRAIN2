@@ -18,8 +18,6 @@ jhjh
 hjh
 jbjh
 nhbh
-njhjh
-hhuh
 jhjn
 ihih
 ihuh
