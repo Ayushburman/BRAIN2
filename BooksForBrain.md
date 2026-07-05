@@ -2,6 +2,5 @@
 jhjn
 ihi
 hjhj
-knni
-jghg
+knn
 nuhuh
