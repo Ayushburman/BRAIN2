@@ -1,6 +1,4 @@
 
-nbh
-huhuh
 jhjn
 ihih
 ihuh
