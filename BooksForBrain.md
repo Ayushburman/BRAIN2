@@ -1,8 +1,6 @@
 
 nbh
 huhuh
-nnj
-hjh
 jbjh
 jhjn
 ihih
