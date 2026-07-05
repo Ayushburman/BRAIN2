@@ -1,4 +1,2 @@
 
 jhjn
-ihi
-knn
