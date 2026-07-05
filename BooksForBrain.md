@@ -1,6 +1,5 @@
 
-jij
-jnn
+
 hvhvyg
 nbh
 jnjnjbh
