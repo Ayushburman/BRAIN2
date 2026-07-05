@@ -4,7 +4,6 @@ huhuh
 nnj
 hjh
 jbjh
-nhbh
 jhjn
 ihih
 ihuh
