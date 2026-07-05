@@ -2,8 +2,6 @@
 nbh
 huhuh
 nnj
-mnjn
-jhjh
 hjh
 jbjh
 nhbh
