@@ -20,8 +20,3 @@ jdjd
 jdj
 jdjd
 jdjd
-jdj
-jjdjd
-nxnx
-ndjjd
-
