@@ -14,5 +14,3 @@ bdbd
 jdj
 jdjd
 hdhd
-ndjd
-bdj
