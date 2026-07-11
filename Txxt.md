@@ -17,7 +17,7 @@ can
 increase alertness 
 and engage reasoning. 
 No method makes someone 
-instantly more intelligent, 
+instantly more
 but these can help you reach 
 your best
 
