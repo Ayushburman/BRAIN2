@@ -16,7 +16,8 @@ are techniques that
 can 
 increase alertness 
 and engage reasoning. 
-No method makes someone 
+No method makes 
+someone 
 instantly more
 but these can 
 help 
