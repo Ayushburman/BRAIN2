@@ -8,7 +8,8 @@ into a
 **high-focus,
 analytical mode**—
 like a detective,
-scientist, chess player,
+scientist, chess 
+player,
 or mathematician—there 
 are techniques that can 
 increase alertness and engage reasoning. 
