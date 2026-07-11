@@ -10,7 +10,8 @@ analytical mode**—
 like a detective,
 scientist, chess 
 player,
-or mathematician—there 
+or mathematician—
+there 
 are techniques that can 
 increase alertness and engage reasoning. 
 No method makes someone instantly more intelligent, 
