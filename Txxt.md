@@ -1,7 +1,6 @@
 
 is to 
 switch 
-your 
 ## 1. Change Your Physical State (1–3 minutes)
 
 Your brain works better when your body is alert.
