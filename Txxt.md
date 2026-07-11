@@ -18,8 +18,7 @@ increase alertness
 and engage reasoning. 
 No method makes 
 someone 
-instantly more
-but these
+instantly
 ## 1. Change Your Physical State (1–3 minutes)
 
 Your brain works better when your body is alert.
