@@ -18,7 +18,8 @@ increase alertness
 and engage reasoning. 
 No method makes someone 
 instantly more
-but these can help you reach 
+but these can help 
+you reach 
 your best
 
 ## 1. Change Your Physical State (1–3 minutes)
