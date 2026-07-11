@@ -15,7 +15,7 @@ there
 are techniques that 
 can 
 increase alertness 
-and engage reasoning. 
+and engage 
 
 ## 1. Change Your Physical State (1–3 minutes)
 
