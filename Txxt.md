@@ -1,8 +1,7 @@
 
 is to 
 switch 
-your brain 
-into a
+your brain
 ## 1. Change Your Physical State (1–3 minutes)
 
 Your brain works better when your body is alert.
