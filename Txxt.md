@@ -14,8 +14,7 @@ or mathematician—
 there 
 are techniques that 
 can 
-increase alertness 
-
+increase 
 
 ## 1. Change Your Physical State (1–3 minutes)
 
