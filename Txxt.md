@@ -18,7 +18,8 @@ increase alertness
 and engage reasoning. 
 No method makes someone 
 instantly more
-but these can help 
+but these can 
+help 
 you reach 
 your best
 
