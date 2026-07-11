@@ -7,7 +7,8 @@ your brain
 into a
 **high-focus,
 analytical mode**—
-like a detective, scientist, chess player, or mathematician—there are techniques that can increase alertness and engage reasoning. No method makes someone instantly more intelligent, but these can help you reach your best thinking state quickly.
+like a detective,
+scientist, chess player, or mathematician—there are techniques that can increase alertness and engage reasoning. No method makes someone instantly more intelligent, but these can help you reach your best thinking state quickly.
 
 ## 1. Change Your Physical State (1–3 minutes)
 
