@@ -1,4 +1,3 @@
-If 
 
 goal
 is to 
