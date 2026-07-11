@@ -1,6 +1,5 @@
 
-is to 
-switch 
+is to
 ## 1. Change Your Physical State (1–3 minutes)
 
 Your brain works better when your body is alert.
