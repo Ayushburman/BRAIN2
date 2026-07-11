@@ -4,8 +4,7 @@ switch
 your brain 
 into a
 **high-focus,
-analytical mode**—
-like a 
+analytical mode**
 ## 1. Change Your Physical State (1–3 minutes)
 
 Your brain works better when your body is alert.
