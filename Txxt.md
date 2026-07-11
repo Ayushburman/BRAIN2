@@ -19,7 +19,7 @@ and engage reasoning.
 No method makes someone 
 instantly more intelligent, 
 but these can help you reach 
-your best thinking state quickly.
+your best
 
 ## 1. Change Your Physical State (1–3 minutes)
 
