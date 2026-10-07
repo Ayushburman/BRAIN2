@@ -11,8 +11,7 @@ During sleep, the brain:
 * Removes waste products via the glymphatic system
 * Strengthens learning pathways
 * Improves decision-making
-* 
-
+  
 ### Evidence
 
 Research from the Harvard Medical School and National Institutes of Health shows sleep deprivation significantly reduces memory, attention, and cognitive performance.
