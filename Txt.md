@@ -1,5 +1,6 @@
 # Scientific Notes: How to Make Your Brain Faster, Improve Memory, Critical Thinking, and Achieve Difficult Goals
 
+
 ## 1. Sleep: The Ultimate Brain Enhancer
 
 ### What Science Says
